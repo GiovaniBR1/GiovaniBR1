@@ -8,7 +8,8 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/giovanibertazzoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovani francisco bertazzoni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giovanibertazzoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovani francisco bertazzoni" height="30" width="40" /></a> <a href="https://www.dio.me/users/giovanibertazzoni">
+<img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> <a href="https://www.hackerrank.com/profile/giovanibertazzo1"> <img align="center" width="40px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
