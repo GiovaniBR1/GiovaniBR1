@@ -2,7 +2,7 @@
 <h3 align="center">Um analista de riscos e dados apaixonados</h3>
 
 - 🌱 Atualmente estou aprendendo mais sobre **python, SQL, Power BI e IAs generativas**
-- 📚 Estudante de administração e um aprendiz assiduo da plataforma Dio
+- 📚 Estudante de administração e um aprendiz assiduo da plataforma Dio e DSA (Data Science Academy)
 - 📫 Como me encontrar **giovanibertazzoni@gmail.com**
 - ⚡ Fato engraçado: **Somente programo durante o dia**
 
