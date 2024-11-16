@@ -2,7 +2,7 @@
 <h3 align="center">Um analista de riscos e dados apaixonados</h3>
 
 - 🌱 Atualmente estou aprendendo mais sobre **python, SQL, Power BI, SAS e aplicações de IA**
-- 📚 Estudante de administração e um aprendiz assiduo da plataforma Scoras Academy
+- 📚 Estudante de administração e um aprendiz assiduo da plataforma Scoras Academy e Deep Learning AI.
 - 📫 Como me encontrar **giovanibertazzoni@gmail.com**
 - ⚡ Fato engraçado: **Somente programo durante o dia**
 
