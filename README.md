@@ -1,10 +1,9 @@
 <h1 align="center">Oi 👋, eu sou o Giovani Bertazzoni</h1>
-<h3 align="center">Um analista de riscos e dados apaixonados</h3>
+<h3 align="center">Um analista de dados e projetos apaixonados</h3>
 
-- 🌱 Atualmente estou aprendendo mais sobre **python, SQL, Power BI, SAS e aplicações de IA**
-- 📚 Formado em administração e um aprendiz assiduo do programa Ada Tech+.
+- 🌱 Atualmente estou aprendendo mais sobre **python, SQL e aplicações de IA**
+- 📚 Formado em administração, atualmente focado em melhorar os usos e arquiteturas de IA.
 - 📫 Como me encontrar **giovanibertazzoni@gmail.com**
-- ⚡ Fato engraçado: **Somente programo durante o dia**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
